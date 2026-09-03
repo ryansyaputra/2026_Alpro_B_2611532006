@@ -7,7 +7,7 @@ print("X=", a)
 b = float(input('masukkan angka:'))
 print("Y=", b)
 c = float(input('masukkan angka:'))
-print("Y=", c)
+print("Z=", c)
 
 jumlah = a + b + c
 print("hasil=", jumlah)
