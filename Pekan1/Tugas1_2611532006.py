@@ -1,0 +1,10 @@
+print("===== Program Biodata=====")
+print("Nama : Ryan Syaputra")
+print("NIM : 2611532006")
+print("Kelas : Alpro B")
+print("* * * * *")
+print("*       *")
+print("*       *")
+print("*       *")
+print("* * * * *")
+
