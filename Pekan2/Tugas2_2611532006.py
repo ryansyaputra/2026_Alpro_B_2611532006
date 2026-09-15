@@ -17,7 +17,6 @@ alamat_2006 = """
 print("Alamat Domisili :", alamat_2006, '|', "tipe:", type(alamat_2006) )
 print("Umur            :", umur_2006, '|', "tipe:", type(umur_2006) )
 print("Skor Tes Awal   :", skor_tes_2006, '|', "tipe:", type(skor_tes_2006) )
-#===============================================================
 id_token_sinyal_2006 = 50 + 5j
 print("ID Token Sinyal :", id_token_sinyal_2006, '|', "tipe:", type(id_token_sinyal_2006) )
 print()
